@@ -50,11 +50,11 @@ function draw() {
   }
 
   fill(255);
-  text("type in your poem and click 'write poem'", 50, 600);
-  text("your words will be changed", 50, 620);
-  text("(the verb will changed into present tense)", 50, 640);
-  text("(random words may be changed into adverbs)", 50, 660);
-  text("click 'Help' to hear Garuinja scream", 50, 680);
+  text("type in your poem and click 'write poem'", 50, 500);
+  text("your words will be changed", 50, 520);
+  text("(the verb will changed into present tense)", 50, 540);
+  text("(random words may be changed into adverbs)", 50, 560);
+  text("click 'Help' to hear Garuinja scream", 50, 580);
 }
 
 function writePoem(){
