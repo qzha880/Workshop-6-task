@@ -25,7 +25,9 @@ workshop 6 task
   * To make the sentences not too hard to understand, I also keeped the old sentences.
  
 <img width="834" alt="截屏2025-01-27 19 14 20" src="https://github.com/user-attachments/assets/2ca565f9-1104-4faf-a5be-17346deabdb3" />
+
 - Experimented with different RiTa functions.
+
 - * (Reference: https://rednoise.org/rita/reference/RiTa/isAdjective/index.html)
   * (Reference: https://rednoise.org/rita/reference/RiTa/isVerb/index.html)
   * (Reference: https://rednoise.org/rita/reference/RiTa/pastPart/index.html)
@@ -39,6 +41,7 @@ workshop 6 task
 - I changed some coding to make the sentences wrote individually, instead of change everything at once.
 
 <img width="971" alt="截屏2025-01-27 20 25 44" src="https://github.com/user-attachments/assets/bfb5d336-4df2-4b5c-97ed-965ad025e34e" />
+
 - Tried to make two buttons with different functions - but the text appear in both areas.
 
 <img width="971" alt="截屏2025-01-27 21 08 49" src="https://github.com/user-attachments/assets/98dafa96-2a56-4377-a500-16cbef18b0fb" />
