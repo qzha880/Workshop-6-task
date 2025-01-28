@@ -45,6 +45,7 @@ workshop 6 task
 - Tried to make two buttons with different functions - but the text appear in both areas.
 
 <img width="971" alt="截屏2025-01-27 21 08 49" src="https://github.com/user-attachments/assets/98dafa96-2a56-4377-a500-16cbef18b0fb" />
+
 At last, I changed the canvas colour, text colour and added some instructions. 
 
 
